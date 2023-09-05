@@ -5,8 +5,8 @@
 #include <math.h>
 
 /*
-Ogni funzione che ha come parametro l'intero ORDINE 
-si riferisce all' ORDINE della Matrice quadrata passata.
+Ogni funzione che ha come parametro l'intero ORDINE si
+riferisce all' ORDINE della Matrice quadrata passata.
 Ogni funzione che ha come parametro float Mat[][ORDINE]
 si riferisce al riferimento della Matrice sulla quale 
 vogliamo fare dei calcoli. 
